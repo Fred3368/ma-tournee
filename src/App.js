@@ -131,7 +131,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>🚚 Ma Tournée</h1>
+        <h1>🚚 Ma Tournée (test automatique)</h1>
         <p>Importe ta tournée, dicte tes arrêts et reprends là où tu t’étais arrêté.</p>
       </header>
 
